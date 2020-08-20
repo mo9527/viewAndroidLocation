@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="mylib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-httpclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/fastjson-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/guava-18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jcl-over-slf4j-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jms-api-1.1-rev-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/morph-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/netty-all-4.0.33.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/ons-api-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/ons-client-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/ons-jms-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/rocketmq-client-3.4.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/rocketmq-common-3.4.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/rocketmq-remoting-3.4.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/slf4j-api-1.7.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
